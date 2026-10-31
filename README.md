@@ -12,4 +12,8 @@
 
 # Updated the quantity in the Webpage
 
+<img width="412" height="272" alt="image" src="https://github.com/user-attachments/assets/e77b70b9-28f0-4d19-8a89-92df8d11a12b" />
+
+# Successfully Updated the quantity into Database 
+
 
