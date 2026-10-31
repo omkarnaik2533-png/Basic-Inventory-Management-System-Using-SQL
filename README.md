@@ -14,6 +14,10 @@
 # Successfully Updated the quantity into Database 
 <img width="412" height="272" alt="image" src="https://github.com/user-attachments/assets/e77b70b9-28f0-4d19-8a89-92df8d11a12b" />
 
+# Deleted Element into Database From Webpage 
+<img width="1600" height="624" alt="image" src="https://github.com/user-attachments/assets/1303696f-fd26-4a1a-b4c3-90c5548f8fb6" />
 
+# Successfully Deleted Element from Database 
+<img width="387" height="211" alt="image" src="https://github.com/user-attachments/assets/ebf229b6-e5e7-4e75-87fb-089f50b23dd7" />
 
 
