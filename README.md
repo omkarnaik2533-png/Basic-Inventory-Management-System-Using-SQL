@@ -8,5 +8,8 @@
 
 # Successfully Added Elements into Database 
 
+<img width="1600" height="671" alt="image" src="https://github.com/user-attachments/assets/b13cc4d2-157d-4109-97cf-d158edbeb926" />
+
+# Updated the quantity in the Webpage
 
 
